@@ -9,8 +9,7 @@ will update later
 ## contributers :
 
 - [Lokeshwaran M (Founder)](https://github.com/Lokeshwaran-M)
-
-
+- [Naveen Kumar S](https://github.com/ccdrs)
 
 
 
